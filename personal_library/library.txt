@@ -1,0 +1,9 @@
+[
+    {
+        "title": "lookism",
+        "author": "PTJ",
+        "year": 2014,
+        "genre": "Romance , Action , Fighting",
+        "read": true
+    }
+]
